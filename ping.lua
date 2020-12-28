@@ -22,4 +22,4 @@ bot:on('messageCreate', function(message)
     end
 end)
 
-bot:run("Bot [TOKEN]")
+bot:run("Bot NzkwODA3OTk5MjQwMzM5NDc3.X-F_Vw.1cMLQtuXSvSpez1pLUjoQY2HSX8")
